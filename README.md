@@ -10,5 +10,4 @@
 7주차: DB와 DBMS   
 8주차: Animation과 Gesture   
 9주차: 네트워크   
-10주차: Token & Login   
 
